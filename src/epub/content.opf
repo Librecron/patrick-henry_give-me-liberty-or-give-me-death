@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/patrick-henry/give-me-liberty-or-give-me-death</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-03-25T20:41:02Z</dc:date>
+		<meta property="dcterms:modified">2019-03-25T20:41:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,14 +36,16 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/6</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/6</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">The famous line "Give me Liberty, or Give me Death!" was delivered by Patrick Henry in 1775.</dc:description>
+		<dc:description id="description">The famous line Give me Liberty, or Give me Death! was delivered by Patrick Henry in 1775.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Patrick Henry delivered his speech in 1775 at the Second Virginia Convention. However, the version of the speech that is well known today was first seen in Sketches of the Life and Character of Patrick Henry by biographer William Wirt.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">1221</meta>
+		<meta property="se:reading-ease.flesch">71.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Give_me_Liberty,_or_give_me_Death</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/patrick-henry_give-me-liberty-or-give-me-death</meta>
 		<dc:creator id="author">Patrick Henry</dc:creator>
